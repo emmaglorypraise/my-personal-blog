@@ -1,0 +1,11 @@
+name: Glory Praise
+bio: |
+ Frontend web developer
+avatar: ./avatars/glory-praise.jpeg
+social:
+  - url: https://github.com/emmaglorypraise
+  - url: https://www.linkedin.com/in/emmaglorypraise/
+  - url: https://twitter.com/emmaglorypraise
+  - url: https://emmaglorypraise.me
+  - url: https://github.com
+featured: true
